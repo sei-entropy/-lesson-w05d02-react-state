@@ -23,7 +23,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 
 <br><br>
 
@@ -50,7 +51,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+2. `No`
 
 <br><br>
 
@@ -78,7 +79,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+2. The `ReactDOM.render` method generates a virtual DOM node containing whatever the JSX that the `Kangaroos` component returns. React then reloads the entire webpage, changing only the element with an ID of root.
 
 
 <br><br>
@@ -95,7 +96,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. `True`
 
 
 <br><br>
@@ -115,7 +116,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+3. `create-react-app jungle_maze`
 
 <br><br>
 
@@ -156,7 +157,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. The Store component call needs to end with `/>`, not just `>`
 
 <br><br>
 
@@ -194,7 +195,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. `Yes`
 
 
 <br><br>
@@ -217,7 +218,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class
 
 
 <br><br>
@@ -241,7 +242,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+4. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
 <br><br>
 
@@ -261,7 +262,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. `prop`
 
 <br><br>
 
@@ -295,7 +296,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+
+5. All of the above.
 
 
 <br><br>
@@ -313,7 +315,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+2. `False`
 
 
 <br><br>
@@ -335,7 +337,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+2. A map is like a `for` loop. With `map`, you use an existing iterator to navigate through each item in an array.
 
 
 <br><br>
@@ -362,7 +364,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. No - `soda` was never initialized
 
 
 
@@ -391,7 +393,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map`
 
 
 <br>
