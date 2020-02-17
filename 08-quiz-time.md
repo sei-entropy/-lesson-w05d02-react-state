@@ -22,7 +22,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
@@ -49,7 +49,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. `No`
 ```
 
 <br><br>
@@ -77,7 +77,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4. The `ReactDOM.render` method generates a new element with an ID of root, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 ```
 
 
@@ -94,7 +94,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+true 
 ```
 
 
@@ -114,7 +114,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -155,7 +155,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. The Store component call needs to end with `/>`, not just `>`
+
 ```
 
 <br><br>
@@ -192,8 +193,9 @@ Choices:
 2. `No`
 
 
+
 ```
-PUT YOUR ANSWER HERE
+No
 ```
 
 
@@ -216,7 +218,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 ```
 
 
@@ -240,7 +242,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. The virtual DOM tree is updated. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -260,7 +262,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `prop`
 ```
 
 <br><br>
@@ -294,7 +296,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+5. All of the above.
 ```
 
 
@@ -312,7 +314,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `True`
 ```
 
 
@@ -334,7 +336,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. A map is like a `while` loop. With `map`, you use an existing iterator to navigate through each item until you break the loop.
 ```
 
 
@@ -361,7 +363,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4. Yes
 ```
 
 
@@ -390,7 +392,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 
