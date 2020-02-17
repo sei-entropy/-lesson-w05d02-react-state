@@ -24,6 +24,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
+
 
 <br><br>
 
@@ -51,6 +53,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+1. `Yes`
 
 <br><br>
 
@@ -79,7 +82,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
 
 <br><br>
 **Question 4.** 
@@ -96,6 +99,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. `False`
+
 
 
 <br><br>
@@ -116,6 +121,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+3. `create-react-app jungle_maze`
+
 
 <br><br>
 
@@ -157,6 +164,10 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+1. The Store component call needs to end with `/>`, not just `>`
+5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
+
+
 
 <br><br>
 
@@ -195,6 +206,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. `No`
 
 
 <br><br>
@@ -218,6 +230,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 
 
 <br><br>
@@ -242,6 +255,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+1. The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
 
 <br><br>
 
@@ -262,6 +276,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. `state`
+
 
 <br><br>
 
@@ -296,6 +312,11 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. State is set with `this.state`, not just `state`
+3. State is set with colons, not equal signs. It should be `compliment: "You're so awesome!"`
+4. Constructors need to begin with a call to `super()`
+
+
 
 
 <br><br>
@@ -314,6 +335,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. `False`
+
 
 
 <br><br>
@@ -336,7 +359,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 
 <br><br>
 
@@ -363,6 +386,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+4. Yes
 
 
 
@@ -392,6 +416,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+4. Yes
 
 
 <br>
