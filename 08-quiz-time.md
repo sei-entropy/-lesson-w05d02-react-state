@@ -22,7 +22,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
+
 ```
 
 <br><br>
@@ -49,7 +50,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `Yes`
+
 ```
 
 <br><br>
@@ -77,7 +79,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. The `ReactDOM.render` method returns JSX to the `Kangaroos` component, and the `Kangaroos` component returns a virtual DOM node. React updates on the webpage only the elements specified in Kangaroos that have changed.
+
 ```
 
 
@@ -94,7 +97,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `True`
+
 ```
 
 
@@ -114,7 +118,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
+
 ```
 
 <br><br>
@@ -155,7 +160,9 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. The Store component call needs to end with `/>`, not just `>`
+5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
+
 ```
 
 <br><br>
@@ -193,7 +200,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `Yes`
+
 ```
 
 
@@ -216,7 +224,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
+
 ```
 
 
@@ -240,7 +249,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
+
 ```
 
 <br><br>
@@ -260,7 +270,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `prop`
+
 ```
 
 <br><br>
@@ -294,7 +305,14 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+
+2. State is set with `this.state`, not just `state`
+
+3. State is set with colons, not equal signs. It should be `compliment: "You're so awesome!"`
+
+4. Constructors need to begin with a call to `super()`
+
+
 ```
 
 
@@ -312,7 +330,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. `False` 
+
 ```
 
 
@@ -334,7 +353,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. A map is like a `for` loop. With `map`, you use an existing iterator to navigate through each item in an array.
+
 ```
 
 
@@ -361,7 +381,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. Yes
+
 ```
 
 
@@ -390,7 +411,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. Yes 
+
 ```
 
 
