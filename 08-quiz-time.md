@@ -23,6 +23,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
@@ -50,6 +51,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 <br><br>
@@ -78,6 +80,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+ The `ReactDOM.render` method returns JSX to the `Kangaroos` component, and the `Kangaroos` component returns a virtual DOM node. React updates on the webpage only the elements specified in Kangaroos that have changed.
 ```
 
 
@@ -95,6 +98,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+False
 ```
 
 
@@ -115,6 +119,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+`create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -156,6 +161,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 ```
 
 <br><br>
@@ -194,6 +200,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -217,6 +224,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+At the top of the component class; you always need it for accurate setup of that class.
 ```
 
 
@@ -241,6 +249,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -261,6 +270,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+`prop`
 ```
 
 <br><br>
@@ -295,6 +305,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+All of the above.
 ```
 
 
@@ -313,6 +324,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+`True`
 ```
 
 
@@ -335,6 +347,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 ```
 
 
@@ -362,6 +375,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -391,6 +405,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 
