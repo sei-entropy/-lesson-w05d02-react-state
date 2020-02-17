@@ -20,14 +20,14 @@ Choices:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
 
-**Question 2.** 
+**Question 2.**
 
 Is this a valid Component declaration?
 
@@ -40,29 +40,26 @@ class Paintings extends Component {
     );
   }
 }
-```  
-  
+```
+
 Choices:
 
 1. `Yes`
 2. `No`
 
-
 ```
 PUT YOUR ANSWER HERE
+2. `No`
 ```
 
 <br><br>
 
-**Question 3.** 
+**Question 3.**
 
 What, specifically, happens when this method is called?
 
 ```jsx
-ReactDOM.render(
-  <Kangaroos />,
-  document.getElementById('root')
-);
+ReactDOM.render(<Kangaroos />, document.getElementById("root"));
 ```
 
 Choices:
@@ -75,15 +72,14 @@ Choices:
 
 4. The `ReactDOM.render` method generates a new element with an ID of root, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
-
 ```
 PUT YOUR ANSWER HERE
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
+
 ```
 
-
 <br><br>
-**Question 4.** 
-
+**Question 4.**
 
 If you have multiple components written in a single file, you can then have multiple default export statements at the bottom of that file - one for each component.
 
@@ -92,16 +88,13 @@ Choices:
 1. `True`
 2. `False`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. `True`
 ```
 
-
 <br><br>
-**Question 5.** 
-
-
+**Question 5.**
 
 How could you use `create-react-app` to create a new app called jungle_maze?
 
@@ -112,14 +105,14 @@ Choices:
 3. `create-react-app jungle_maze`
 4. `create-react-app index/jungle_maze.js`
 
-
 ```
 PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
 ```
 
 <br><br>
 
-**Question 6.** 
+**Question 6.**
 
 Take a look at the following React file. Choose the reason(s) it won't run properly.
 
@@ -153,20 +146,21 @@ Choices:
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. The Store component call needs to end with `/>`, not just `>`
+4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 ```
 
 <br><br>
 
-**Question 7.** 
+**Question 7.**
 
 If I'm displaying multiple nested components, assuming the `Flowers` component is being passed all necessary props and the `Daisy` component is imported and written correctly, is this valid syntax?
 
 ```jsx
-import React, { Component } from 'react';
-import Daisy from './Daisy.js';
+import React, { Component } from "react";
+import Daisy from "./Daisy.js";
 
 class Flowers extends Component {
   render() {
@@ -191,18 +185,16 @@ Choices:
 1. `Yes`
 2. `No`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. `Yes`
 ```
-
 
 <br><br>
 
-**Question 8.** 
+**Question 8.**
 
 Where does `constructor()` go, and when do you need it?
-
 
 Choices:
 
@@ -212,18 +204,16 @@ Choices:
 
 3. In the component class' `render()` method; you always need it for accurate setup of that class.
 
-4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
-
+4. In the component class' `render()` method; you only need it if you are changing any initial configurations for that class.
 
 ```
 PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 ```
-
 
 <br><br>
 
-**Question 9.** 
-
+**Question 9.**
 
 What happens when you call `setState()`?
 
@@ -235,17 +225,17 @@ Choices:
 
 3. The virtual DOM tree is updated. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
-
-4. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
-
+4) The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
 ```
 PUT YOUR ANSWER HERE
+
+1. The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
 
-**Question 10.** 
+**Question 10.**
 
 If we have the code below, inside of the Painting component, will `dinosaur` be treated as a prop or a state?
 
@@ -258,15 +248,14 @@ Choices:
 1. `prop`
 2. `state`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. `prop`
 ```
 
 <br><br>
 
-**Question 11.** 
-
+**Question 11.**
 
 What is wrong with the below code? Choose all that apply.
 
@@ -292,16 +281,14 @@ Choices:
 
 5. All of the above.
 
-
 ```
 PUT YOUR ANSWER HERE
+5. All of the above.
 ```
-
 
 <br><br>
 
-**Question 12.** 
-
+**Question 12.**
 
 Using React, if you refresh a webpage, you never lose information since everything is stored in the component or browser state.
 
@@ -310,15 +297,14 @@ Choices:
 1. `True`
 2. `False`
 
-
 ```
 PUT YOUR ANSWER HERE
+1. `True`
 ```
-
 
 <br><br>
 
-**Question 13.** 
+**Question 13.**
 
 What is `map`?
 
@@ -332,23 +318,22 @@ Choices:
 
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
-
 ```
 PUT YOUR ANSWER HERE
+2. A map is like a `for` loop. With `map`, you use an existing iterator to navigate through each item in an array.
 ```
-
 
 <br><br>
 
-**Question 14.** 
+**Question 14.**
 
 Is the correct syntax for `map`?
 
 ```js
-const drinks = ['tea', 'espresso', 'milkshake'];
+const drinks = ["tea", "espresso", "milkshake"];
 
-const myDrinks = drinks.map( (soda, index) => {
-  return 'I love' + soda;
+const myDrinks = drinks.map((soda, index) => {
+  return "I love" + soda;
 });
 ```
 
@@ -359,22 +344,20 @@ Choices:
 3. No - the first line of the function should be `const myDrinks = map( (drinks, index)`
 4. Yes
 
-
 ```
 PUT YOUR ANSWER HERE
+4. Yes
 ```
-
-
 
 <br><br>
 
-**Question 15.** 
+**Question 15.**
 
 Is the correct syntax for `map`, if the array is a prop named `Juice`?
 
 ```jsx
 const Juices = this.prop.Juice.map((juiceType, index) => {
-  return cuteJuice = 'I love' + juiceType;
+  return (cuteJuice = "I love" + juiceType);
 });
 ```
 
@@ -388,10 +371,9 @@ Choices:
 
 4. Yes
 
-
 ```
 PUT YOUR ANSWER HERE
+4. Yes
 ```
-
 
 <br>
