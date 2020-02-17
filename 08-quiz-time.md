@@ -22,7 +22,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -49,7 +49,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 <br><br>
@@ -77,7 +77,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 
@@ -94,7 +94,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -114,7 +114,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -155,7 +155,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+5
 ```
 
 <br><br>
@@ -193,7 +193,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 
@@ -216,7 +216,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -240,7 +240,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 <br><br>
@@ -260,7 +260,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -294,7 +294,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3
 ```
 
 
@@ -312,7 +312,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -334,7 +334,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -361,7 +361,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4
 ```
 
 
@@ -390,7 +390,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4
 ```
 
 
