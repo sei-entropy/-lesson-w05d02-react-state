@@ -22,7 +22,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+<p>My favorite ice cream is {this.flavor}!</p>
+
 ```
 
 <br><br>
@@ -49,7 +50,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+No
+
 ```
 
 <br><br>
@@ -77,7 +79,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+The ReactDOM.render method returns JSX to the Kangaroos component, and the Kangaroos component returns a virtual DOM node. React updates on the webpage only the elements specified in Kangaroos that have changed.
+
 ```
 
 
@@ -94,7 +97,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+False
+
 ```
 
 
@@ -114,7 +118,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+create-react-app jungle_maze
+
 ```
 
 <br><br>
@@ -155,7 +160,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1, 4,5
 ```
 
 <br><br>
@@ -193,7 +198,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -216,7 +221,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
+
 ```
 
 
@@ -240,7 +246,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
+
 ```
 
 <br><br>
@@ -260,7 +267,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+prop
+
 ```
 
 <br><br>
@@ -294,7 +302,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2,3,4,5
 ```
 
 
@@ -312,7 +320,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+False
+
 ```
 
 
@@ -334,7 +343,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4
+
 ```
 
 
@@ -361,7 +371,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
+
 ```
 
 
@@ -390,7 +401,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 
