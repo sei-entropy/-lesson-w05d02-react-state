@@ -22,7 +22,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
@@ -49,7 +49,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`No`
 ```
 
 <br><br>
@@ -77,7 +77,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
 ```
 
 
@@ -94,7 +94,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+True
 ```
 
 
@@ -114,7 +114,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -155,7 +155,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+
+1. The Store component call needs to end with `/>`, not just `>`
 ```
 
 <br><br>
@@ -193,7 +194,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -216,7 +217,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
+
 ```
 
 
@@ -240,7 +242,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -260,7 +262,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. `state`
+
 ```
 
 <br><br>
@@ -294,7 +297,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. State is set with colons, not equal signs. It should be `compliment: "You're so awesome!"`
 ```
 
 
@@ -312,7 +315,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. `False`
+
 ```
 
 
@@ -334,7 +338,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 ```
 
 
@@ -361,7 +365,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4. Yes
 ```
 
 
@@ -390,7 +394,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+
+3. No - `juiceType` was never initialized
 ```
 
 
