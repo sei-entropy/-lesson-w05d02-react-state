@@ -1,9 +1,10 @@
 import React from 'react';
-import Post from './Post';
+import Prompt from './Prompt';
 
-export default class App extends React.Component {
+class App extends React.Component{
   render() {
-    const post = {
+
+    const person = {
       title: "Dinosaurs are awesome",
       authors: [
         "Written by Stealthy Stegosaurus",
@@ -14,11 +15,16 @@ export default class App extends React.Component {
       comments: "First!",
     };
 
-    return <div>
-      <Post title={post.title}
-                  authors={post.authors}
-                  body={post.body}
-                  comments={post.comments} />
+    return (
+      <div>
+    < Prompt 
+    title={person.title} 
+    authors = {person.authors}
+    body={person.body}
+    comments={person.comments}/>
     </div>
+    );
   }
 }
+
+export default App;
